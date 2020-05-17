@@ -11,6 +11,8 @@ I make this slider only with the screenshot of this design because I don't have 
 
 ### Original and my final design
 
+This project was make with pure Css3 HTML5 and Vanilla JavaScript
+
 You can found my final design at this link https://affectionate-hermann-99b382.netlify.app/ 
 
 This project can work with any number of items on the slider and on any other project if you respect the id and classes of the index.
